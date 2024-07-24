@@ -1,2 +1,2 @@
 # Reverse-string
-this is all about taking input as a string and reverse it.
+A programe for reverse the string in c++.
